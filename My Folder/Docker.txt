@@ -1,0 +1,24 @@
+{
+  "registry-mirrors": [],
+  "insecure-registries": [],
+  "debug": false,
+  "experimental": false,
+  "features": {
+    "buildkit": true
+  },
+  "builder": {
+    "gc": {
+      "enabled": true,
+      "defaultKeepStorage": "20GB"
+    }
+  }
+}
+
+
+{
+	"auths": {
+		"nexus.idya4.com": {}
+	},
+	"credsStore": "desktop",
+	"stackOrchestrator": "swarm"
+}
