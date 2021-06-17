@@ -1,0 +1,38 @@
+
+
+  jenkins server in US om premissis 
+
+
+Jump server sk94 windows 
+
+Need to push war in 3servers using jump server
+
+Okay
+
+Will checck got it  share me link 
+
+
+
+Build to change
+
+Oparting model:  Intigrated ops : Intigrated with opartions team
+
+delivery model :
+
+Full devsecops  
+
+
+
+
+We can do automation ( Continues intigration ) using jenkins i have hands on that creating jobs.
+
+We can do automation using jenkinsfile we can intigrate with github.
+
+
+
+
+When come to unit test cases we are using junit 
+
+day 2 day activities:
+
+.Creating
